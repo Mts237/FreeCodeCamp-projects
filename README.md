@@ -9,7 +9,6 @@ I am a student learning software development. This repository is where I keep my
 ## Notes
 
 - Everything started with HTML and CSS, and more languages will come as I learn them.
-- When I use an AI tool on something, I say so in that folder.
 
 ## Status
 
