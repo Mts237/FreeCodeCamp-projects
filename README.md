@@ -1,15 +1,11 @@
-# Learning Web Development
+# freeCodeCamp
 
-Code I write while learning to build for the web. Each folder is a separate exercise, and I add new ones as I progress.
+Exercises and projects I build while following the freeCodeCamp curriculum. Each folder is a separate project, and I add new ones as I progress.
 
 ## About
 
-I am a student learning software development. This repository is where I keep my practice work, starting with the freeCodeCamp Responsive Web Design certification.
-
-## Notes
-
-- Everything started with HTML and CSS, and more languages will come as I learn them.
+I am a student learning software development. freeCodeCamp covers web design, JavaScript, back end, databases, Python and more, and this repository follows my progress through it. I started with the Responsive Web Design certification.
 
 ## Status
 
-Work in progress. New exercises are added regularly.
+Work in progress. New projects are added regularly.
